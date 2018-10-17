@@ -1,5 +1,8 @@
 Answers.
 
+Please note the large simulation files were too big to push to github.
+Files available by request please email me at eric.botcher@students.makeschool.com
+
 
 1) What were the inputs you gave the simulation?
 (Population size, percent vaccinated, virus name, mortality rate, basic reproductive rate)

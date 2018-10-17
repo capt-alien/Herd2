@@ -1,0 +1,227 @@
+==============METADATA=====================
+10	 0.9	 Ebola	 0.5	
+========================================================
+     Population Size: 10
+    Vaccination Rate: 0.9
+          Virus Name: Ebola
+      Mortality Rate: 0.5
+
+========================================================
+ 1 infects 2 because already sick. 
+ 2 didn't infect 1 because vaccinated. 
+ 1 infects 1 because already sick. 
+ 1 infects 1 because already sick. 
+ 1 infects 5 because already sick. 
+ 5 didn't infect 1 because vaccinated. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 3 because already sick. 
+ 3 didn't infect 1 because vaccinated. 
+ 1 infects 2 because already sick. 
+ 2 didn't infect 1 because vaccinated. 
+ 1 infects 9 because already sick. 
+ 9 didn't infect 1 because vaccinated. 
+ 1 infects 2 because already sick. 
+ 2 didn't infect 1 because vaccinated. 
+ 1 infects 10 because already sick. 
+ 10 didn't infect 1 because vaccinated. 
+ 1 infects 7 because already sick. 
+ 7 didn't infect 1 because vaccinated. 
+ 1 infects 1 because already sick. 
+ 1 infects 1 because already sick. 
+ 1 infects 1 because already sick. 
+ 1 infects 1 because already sick. 
+ 1 infects 2 because already sick. 
+ 2 didn't infect 1 because vaccinated. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 9 because already sick. 
+ 9 didn't infect 1 because vaccinated. 
+ 1 infects 10 because already sick. 
+ 10 didn't infect 1 because vaccinated. 
+ 1 infects 1 because already sick. 
+ 1 infects 1 because already sick. 
+ 1 infects 9 because already sick. 
+ 9 didn't infect 1 because vaccinated. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 9 because already sick. 
+ 9 didn't infect 1 because vaccinated. 
+ 1 infects 7 because already sick. 
+ 7 didn't infect 1 because vaccinated. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 8 because already sick. 
+ 8 didn't infect 1 because vaccinated. 
+ 1 infects 10 because already sick. 
+ 10 didn't infect 1 because vaccinated. 
+ 1 infects 5 because already sick. 
+ 5 didn't infect 1 because vaccinated. 
+ 1 infects 1 because already sick. 
+ 1 infects 1 because already sick. 
+ 1 infects 3 because already sick. 
+ 3 didn't infect 1 because vaccinated. 
+ 1 infects 7 because already sick. 
+ 7 didn't infect 1 because vaccinated. 
+ 1 infects 6 because already sick. 
+ 6 didn't infect 1 because vaccinated. 
+ 1 infects 5 because already sick. 
+ 5 didn't infect 1 because vaccinated. 
+ 1 infects 3 because already sick. 
+ 3 didn't infect 1 because vaccinated. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 6 because already sick. 
+ 6 didn't infect 1 because vaccinated. 
+ 1 infects 2 because already sick. 
+ 2 didn't infect 1 because vaccinated. 
+ 1 infects 2 because already sick. 
+ 2 didn't infect 1 because vaccinated. 
+ 1 infects 7 because already sick. 
+ 7 didn't infect 1 because vaccinated. 
+ 1 infects 2 because already sick. 
+ 2 didn't infect 1 because vaccinated. 
+ 1 infects 6 because already sick. 
+ 6 didn't infect 1 because vaccinated. 
+ 1 infects 6 because already sick. 
+ 6 didn't infect 1 because vaccinated. 
+ 1 infects 10 because already sick. 
+ 10 didn't infect 1 because vaccinated. 
+ 1 infects 5 because already sick. 
+ 5 didn't infect 1 because vaccinated. 
+ 1 infects 1 because already sick. 
+ 1 infects 1 because already sick. 
+ 1 infects 8 because already sick. 
+ 8 didn't infect 1 because vaccinated. 
+ 1 infects 9 because already sick. 
+ 9 didn't infect 1 because vaccinated. 
+ 1 infects 2 because already sick. 
+ 2 didn't infect 1 because vaccinated. 
+ 1 infects 7 because already sick. 
+ 7 didn't infect 1 because vaccinated. 
+ 1 infects 2 because already sick. 
+ 2 didn't infect 1 because vaccinated. 
+ 1 infects 9 because already sick. 
+ 9 didn't infect 1 because vaccinated. 
+ 1 infects 5 because already sick. 
+ 5 didn't infect 1 because vaccinated. 
+ 1 infects 10 because already sick. 
+ 10 didn't infect 1 because vaccinated. 
+ 1 infects 6 because already sick. 
+ 6 didn't infect 1 because vaccinated. 
+ 1 infects 10 because already sick. 
+ 10 didn't infect 1 because vaccinated. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 2 because already sick. 
+ 2 didn't infect 1 because vaccinated. 
+ 1 infects 1 because already sick. 
+ 1 infects 1 because already sick. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 5 because already sick. 
+ 5 didn't infect 1 because vaccinated. 
+ 1 infects 2 because already sick. 
+ 2 didn't infect 1 because vaccinated. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 2 because already sick. 
+ 2 didn't infect 1 because vaccinated. 
+ 1 infects 7 because already sick. 
+ 7 didn't infect 1 because vaccinated. 
+ 1 infects 5 because already sick. 
+ 5 didn't infect 1 because vaccinated. 
+ 1 infects 8 because already sick. 
+ 8 didn't infect 1 because vaccinated. 
+ 1 infects 6 because already sick. 
+ 6 didn't infect 1 because vaccinated. 
+ 1 infects 3 because already sick. 
+ 3 didn't infect 1 because vaccinated. 
+ 1 infects 6 because already sick. 
+ 6 didn't infect 1 because vaccinated. 
+ 1 infects 6 because already sick. 
+ 6 didn't infect 1 because vaccinated. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 5 because already sick. 
+ 5 didn't infect 1 because vaccinated. 
+ 1 infects 2 because already sick. 
+ 2 didn't infect 1 because vaccinated. 
+ 1 infects 10 because already sick. 
+ 10 didn't infect 1 because vaccinated. 
+ 1 infects 3 because already sick. 
+ 3 didn't infect 1 because vaccinated. 
+ 1 infects 9 because already sick. 
+ 9 didn't infect 1 because vaccinated. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 3 because already sick. 
+ 3 didn't infect 1 because vaccinated. 
+ 1 infects 8 because already sick. 
+ 8 didn't infect 1 because vaccinated. 
+ 1 infects 7 because already sick. 
+ 7 didn't infect 1 because vaccinated. 
+ 1 infects 5 because already sick. 
+ 5 didn't infect 1 because vaccinated. 
+ 1 infects 9 because already sick. 
+ 9 didn't infect 1 because vaccinated. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 6 because already sick. 
+ 6 didn't infect 1 because vaccinated. 
+ 1 infects 1 because already sick. 
+ 1 infects 1 because already sick. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 1 because already sick. 
+ 1 infects 1 because already sick. 
+ 1 infects 6 because already sick. 
+ 6 didn't infect 1 because vaccinated. 
+ 1 infects 7 because already sick. 
+ 7 didn't infect 1 because vaccinated. 
+ 1 infects 5 because already sick. 
+ 5 didn't infect 1 because vaccinated. 
+ 1 infects 2 because already sick. 
+ 2 didn't infect 1 because vaccinated. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 10 because already sick. 
+ 10 didn't infect 1 because vaccinated. 
+ 1 infects 6 because already sick. 
+ 6 didn't infect 1 because vaccinated. 
+ 1 infects 4 because already sick. 
+ 4 didn't infect 1 because vaccinated. 
+ 1 infects 8 because already sick. 
+ 8 didn't infect 1 because vaccinated. 
+ 1 infects 7 because already sick. 
+ 7 didn't infect 1 because vaccinated. 
+ 1 infects 8 because already sick. 
+ 8 didn't infect 1 because vaccinated. 
+ 1 infects 3 because already sick. 
+ 3 didn't infect 1 because vaccinated. 
+ 1 infects 5 because already sick. 
+ 5 didn't infect 1 because vaccinated. 
+ 1 infects 3 because already sick. 
+ 3 didn't infect 1 because vaccinated. 
+ Person ID: 2 survived infection and is now immune
+ Person ID: 3 survived infection and is now immune
+ Person ID: 4 survived infection and is now immune
+ Person ID: 5 survived infection and is now immune
+ Person ID: 6 survived infection and is now immune
+ Person ID: 7 survived infection and is now immune
+ Person ID: 8 survived infection and is now immune
+ Person ID: 9 survived infection and is now immune
+ Person ID: 10 survived infection and is now immune
+ Person ID: 10 died from infection.
+==============TIME STEP==========================
+
+ ==============================================
+
+ Time step 1 has ended, starting time step 2
+
+ ==============================================
+ A total of 1 died from infection.
